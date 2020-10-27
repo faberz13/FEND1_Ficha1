@@ -19,3 +19,5 @@ git branch -D NOME --> elimina a branch NOME
 git remote add origin LINK --> liga o repositório atual local a um repositório online
 git push -u origin master --> envia a branch master para o repositório online (necessário apenas no primeiro envio)
 git push --> enviar o repositório atual local para o repositório online
+
+git ignore --> um comando para ocultar passwords ou arquivos que não queremos ver.
