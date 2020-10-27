@@ -1,6 +1,4 @@
 # Comandos de GIT
-
-# Configuração de Utilizador
 git config --global user.name "NOME"
 git config --global user.email "EMAIL"
 git init --> inicia o repositóriogit status --> verifica o estado do repositório
@@ -21,3 +19,4 @@ git branch -D NOME --> elimina a branch NOME
 git remote add origin LINK --> liga o repositório atual local a um repositório online
 git push -u origin master --> envia a branch master para o repositório online (necessário apenas no primeiro envio)
 git push --> enviar o repositório atual local para o repositório online
+
